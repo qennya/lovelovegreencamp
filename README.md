@@ -1,16 +1,6 @@
 # lovelovegreencamp
 
-A new Flutter project.
+This is a small solo project based on the early 2000's dating simulators released on DS and P2P Consoles. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This game is currently in progress and has a placeholder name of Love Love Green Camp. All artwork and assets are made by me. 
+## Game Media
