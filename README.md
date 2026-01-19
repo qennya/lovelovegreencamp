@@ -1,4 +1,4 @@
-# lovelovegreencamp
+# LoveLove Green Camp
 
 This is a small solo project based on the early 2000's dating simulators released on DS and P2P Consoles. 
 
